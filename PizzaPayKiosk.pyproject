@@ -1,0 +1,15 @@
+{
+    "files": [
+        "main.py",
+        "main.qml",
+        "ProductView.qml",
+        "WelcomeView.qml",
+        "ProductEditView.qml",
+        "Database.py",
+        "DataTypes.py",
+        "OrderView.qml",
+        "Wallet.py",
+        "OrderPayment.qml",
+        "OrderConfirmation.qml"
+    ]
+}

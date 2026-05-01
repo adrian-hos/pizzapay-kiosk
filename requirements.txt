@@ -1,0 +1,6 @@
+PySide6
+tomlkit
+bip-utils
+requests
+mysql-connector-python
+qrcode
