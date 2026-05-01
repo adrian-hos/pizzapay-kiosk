@@ -20,3 +20,15 @@ Pentru realizarea PizzaPay Kiosk, au fost utilizate următoarele instrumente și
 * `bip-utils` pentru generarea adreselor Bitcoin pe baza unui master public key  
 * `concurrent.futures` pentru execuția paralelă a request-urilor API și optimizarea performanței  
 * API-uri publice precum Blockstream și Mempool pentru verificarea tranzacțiilor în rețeaua Bitcoin Testnet 
+
+![Screenshot 1](https://github.com/adrian-hos/pizzapay-kiosk/blob/main/screenshots/1.png "Screenshot 1")
+
+![Screenshot 2](https://github.com/adrian-hos/pizzapay-kiosk/blob/main/screenshots/2.png "Screenshot 2")
+
+![Screenshot 3](https://github.com/adrian-hos/pizzapay-kiosk/blob/main/screenshots/3.png "Screenshot 3")
+
+![Screenshot 4](https://github.com/adrian-hos/pizzapay-kiosk/blob/main/screenshots/4.png "Screenshot 4")
+
+![Screenshot 5](https://github.com/adrian-hos/pizzapay-kiosk/blob/main/screenshots/5.png "Screenshot 5")
+
+![Screenshot 6](https://github.com/adrian-hos/pizzapay-kiosk/blob/main/screenshots/6.png "Screenshot 6")
